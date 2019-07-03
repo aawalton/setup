@@ -1,4 +1,5 @@
 # Bash aliases
+alias gf="git fetch"
 alias gs="git status"
 alias ga="git add ."
 alias gc="git commit -a -m"
@@ -9,3 +10,4 @@ alias im="iex -S mix"
 alias imp="iex -S mix phx.server"
 
 alias v="vim"
+alias va="vidangel"
