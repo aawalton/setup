@@ -112,5 +112,5 @@ if ! shopt -oq posix; then
   fi
 fi
 export PATH="~/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin"
-export PATH="~/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin"
-export PATH="~/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
