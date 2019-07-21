@@ -8,6 +8,7 @@ alias gr="git remote prune origin"
 
 alias im="iex -S mix"
 alias imp="iex -S mix phx.server"
+alias mp="mix phx.server"
 
 alias v="vim"
 alias va="vidangel"
