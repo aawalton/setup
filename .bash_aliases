@@ -1,5 +1,6 @@
 # Bash aliases
 alias gf="git fetch"
+alias gl="git pull"
 alias gs="git status"
 alias ga="git add ."
 alias gc="git commit -a -m"
