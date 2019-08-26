@@ -114,3 +114,6 @@ fi
 export PATH="~/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
