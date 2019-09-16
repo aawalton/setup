@@ -14,5 +14,7 @@ alias im="iex -S mix"
 alias imp="iex -S mix phx.server"
 alias mp="mix phx.server"
 
+alias k="kubectl"
+
 alias v="vim"
 alias va="vidangel"
