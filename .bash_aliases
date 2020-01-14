@@ -19,3 +19,5 @@ alias k="kubectl"
 
 alias v="vim"
 alias va="vidangel"
+
+alias cx="cortex"
