@@ -20,7 +20,7 @@ git clone git@github.com:aawalton/dotfiles.git
 
 ### Set up Symlinks
 ```bash
-cd ~/repos/dotfiles
+cd ~/repos/setup/lib/install
 sudo chmod +x symlinks
 ./symlinks
 source ~/.bashrc
