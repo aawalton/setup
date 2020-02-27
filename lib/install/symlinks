@@ -1,4 +1,4 @@
 #!/bin/bash
 files=".bash_aliases .vimrc .bashrc"
-for file in $files; do ln -sf ~/repos/dotfiles/"$file" ~/"$file"; done
+for file in $files; do ln -sf ~/repos/setup/dotfiles/"$file" ~/"$file"; done
 
