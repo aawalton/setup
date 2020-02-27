@@ -1,4 +1,4 @@
 #!/bin/bash
-files=".aliases .vimrc .bashrc .zshrc"
+files="$(ls -A ~/repos/setup/dotfiles)"
 for file in $files; do ln -sf ~/repos/setup/dotfiles/"$file" ~/"$file"; done
 
