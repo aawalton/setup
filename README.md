@@ -10,6 +10,12 @@ cat ~/.ssh/id_rsa.pub
 ```
 
 #### Add SSH Key to GitHub Developer Settings
+#### Setup git cli
+```bash
+git config --global user.name "Alan Walton"
+git config --global user.email "aawalton@gmail.com"
+```
+
 
 ### Clone the dotfiles repo
 ```bash
