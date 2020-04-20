@@ -15,7 +15,7 @@ cat ~/.ssh/id_rsa.pub
 ```bash
 mkdir ~/repos/
 cd ~/repos/
-git clone git@github.com:aawalton/dotfiles.git
+git clone git@github.com:aawalton/setup.git
 ```
 
 ### Set up Symlinks
