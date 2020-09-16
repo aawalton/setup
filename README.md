@@ -29,5 +29,5 @@ git clone git@github.com:aawalton/setup.git
 cd ~/repos/setup/lib/install
 sudo chmod +x symlinks
 ./symlinks
-source ~/.bashrc
+source ~/.zshrc
 ```
