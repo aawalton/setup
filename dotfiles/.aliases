@@ -1,8 +1,5 @@
 # Bash aliases
 alias c.="code ."
-alias cx="cortex"
-
-alias dc="docker-compose"
 
 alias gf="git fetch"
 alias gl="git pull"
@@ -21,6 +18,3 @@ alias mp="mix phx.server"
 alias k="kubectl"
 
 alias v="vim"
-alias va="vidangel"
-
-alias cx="cortex"
