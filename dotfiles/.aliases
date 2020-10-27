@@ -18,3 +18,7 @@ alias mp="mix phx.server"
 alias k="kubectl"
 
 alias v="vim"
+
+alias y1="yarn run codepush:ios:dev1"
+
+
