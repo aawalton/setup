@@ -19,8 +19,9 @@ alias k="kubectl"
 
 alias v="vim"
 
-alias y1="yarn run codepush:ios:dev1"
-
 alias yr="yarn run"
+alias yrd="yarn run dev"
+alias yrw="yarn run web"
+alias y1="yarn run codepush:ios:dev1"
 
 
