@@ -22,6 +22,7 @@ alias v="vim"
 alias yr="yarn run"
 alias yrd="yarn run dev"
 alias yrw="yarn run web"
+alias yrl="yarn run lint"
 alias y1="yarn run codepush:ios:dev1"
 
 
